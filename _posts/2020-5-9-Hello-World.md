@@ -2,11 +2,12 @@
 layout: post
 title: Funcionando!
 ---
-[compartir y avanzar]({{ site.baseurl }}/images/minimalist.jpg)
+Compartir y avanzar
+[click para ver foto minimalista]({{ site.baseurl }}/images/minimalist.jpg)
 <br>
 ![foto minimalista](/images/minimalist.jpg)
 ### Subsection 1
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+probando insertar fotos en el post del blog
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
