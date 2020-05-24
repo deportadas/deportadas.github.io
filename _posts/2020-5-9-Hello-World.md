@@ -3,7 +3,7 @@ layout: post
 title: Funcionando!
 ---
 Compartir y avanzar
-[click para ver foto minimalista]({{ site.baseurl }}/images/minimalist.jpg)
+[click para ver foto minimalista]({{ site.baseurl }}/images/daya.jpg)
 <br>
 ![foto minimalista](/images/minimalist.jpg)
 ### Subsection 1
