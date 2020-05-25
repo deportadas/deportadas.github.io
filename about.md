@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Base de datos, PHP, mysql
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Compartir de todo un poco, experiencia, perseverancia, positivismo
 
 ### Contact me
 
