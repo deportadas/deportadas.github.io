@@ -8,4 +8,7 @@ aca van comentarios
 <a href="https://www.youtube.com/watch?v=sduYNx92_go" target="_blank">Keira Knightley - A Step You Can't Take Back</a>
 <br>
 <a href="https://www.youtube.com/watch?v=3euj8m2_pug" target="_blank">Keira Knightley - Tell Me If You Wanna Go Home</a>
-
+<br>
+<a href="https://www.youtube.com/watch?v=sLTRSakuugs" target="_blank">Keira Knightley - "Lost Stars" (Begin Again Soundtrack)</a>
+<br>
+<a href="https://www.youtube.com/watch?v=zOdN-OJ9SWA" target="_blank">Keira Knightley - "Like a Fool" (Begin Again Soundtrack)</a>
